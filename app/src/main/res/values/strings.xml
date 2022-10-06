@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Simple Login App</string>
+    <string name="email_placeholder">Your Email</string>
+    <string name="password_placeholder">Your password</string>
+    <string name="login_button_title">Login</string>
+    <string name="login_failed_text">Login failed</string>
+    <string name="correct_email">test@i.ua</string>
+    <string name="correct_password">testpass</string>
+    <string name="title_activity_user_profile">UserProfileActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
